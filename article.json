@@ -1,0 +1,10 @@
+[
+    {
+        "title":"Membuat Profil Sederhana",
+        "description": "website profil yang menampilkan beberapa informasi mengenai penulis",
+        "thumbnail": "./avengers.jpg",
+        "author": "Anhar Suryadi",
+        "published_at": "14 April 2022",
+        "instagram": "https://www.instagram.com/anh.surya09/"
+    }
+]
