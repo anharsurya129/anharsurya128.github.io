@@ -1,7 +1,7 @@
 Vue.createApp({
     data() {
       return {
-        message: "Hello Universe!!",
+        message: "Assalamu'alaikum World!!",
         header: {
             slogan: "Welcome to My Website",
             nama: "Anhar Suryadi",
