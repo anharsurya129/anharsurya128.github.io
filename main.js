@@ -7,7 +7,7 @@ Vue.createApp({
             nama: "Anhar Suryadi",
             kelas: "2011016061 | Information System | Sains and Technology",
             univ : "Massachutes Institute of Technology (MIT)",
-            quotes: "Semua dimulai dari mencoba, kita tidak pernah merasakan keberhasilan dan kesuksesan tanpai pernah memulai dan tanpa berani mencoba.",
+            quotes: "Semua dimulai dari mencoba, kau takkan pernah merasakan keberhasilan dan kesuksesan tanpai pernah memulai dan tanpa berani mencoba.",
             imageprofile: "anharpubg.jpeg",
         },
         social: {
